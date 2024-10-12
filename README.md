@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dewang Moghe</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 
 <img align ="right" alt = "coding" width = "400" src= "https://static.wixstatic.com/media/a27d24_16bbdb1ff1594bb6bc7f5649f07c1781~mv2.gif">
 
